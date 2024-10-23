@@ -9,8 +9,8 @@ import { Config } from './config.js';
 import './abi.js';
 export default class Core extends API {
   constructor(_0x18514d, _0x4c3305, _0x218e4b) {
-    super("https://airdrop.soniclabs.com", _0x218e4b, 'airdrop.soniclabs.com', "https://airdrop.soniclabs.com/", "b85a2d");
-    this.maincode = "b85a2d";
+    super("https://airdrop.soniclabs.com", _0x218e4b, 'airdrop.soniclabs.com', "https://airdrop.soniclabs.com/", "8b2v8r");
+    this.maincode = "8b2v8r";
     this.acc = _0x18514d;
     this.sessionId = 0x1;
     this.smartWalletAddr = _0x4c3305;
